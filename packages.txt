@@ -1,2 +1,8 @@
-Tailwindcss
-Tailwindcss prettier plugin
+DEVELOPMENT_DEPENDENCIES
+* Tailwindcss
+* Tailwindcss prettier plugin
+* 
+
+PACKAGE_DEPENDENCIES
+* Redux Toolkit & React-Redux
+* 
