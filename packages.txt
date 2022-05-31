@@ -5,4 +5,4 @@ DEVELOPMENT_DEPENDENCIES
 
 PACKAGE_DEPENDENCIES
 * Redux Toolkit & React-Redux
-* 
+* Axios
